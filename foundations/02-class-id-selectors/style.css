@@ -1,0 +1,19 @@
+.odd {
+    background-color: #f1a0a0;
+    font-family: sans-serif, Arial, Helvetica, 'Times New Roman', Times, serif;
+}
+
+.cooler {
+    font-size: 1.5rem;
+}
+
+#first {
+    color:blue;
+    font-size:2rem;
+}
+
+#second {
+    background-color: rgb(155, 255, 163);
+    font-size: 1.25rem;
+    font-weight: bold;
+}
